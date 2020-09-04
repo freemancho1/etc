@@ -1,4 +1,5 @@
-# Python
+# OS, Python, Anaconda, DBMS 등...
 </br>
 
-파이썬 관련 문법 및 주요 소스 정리
+##### 기타 사항들 정리..
+내용이 많아지면 별도 repository
